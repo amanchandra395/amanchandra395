@@ -1,6 +1,9 @@
-👋 Hi, I’m Aman Chandra
+                                                      👋 Hi, I’m Aman Chandra
 
-IIITRanchi'24 || Aspiring Full Stack Web Developer || DS-Algo Enthusiast
+                                 IIITRanchi'24 || Aspiring Full Stack Web Developer || DS-Algo Enthusiast
+
+
+![Aman Pic 3](https://user-images.githubusercontent.com/112195895/201169603-73bdbd22-8b81-4ecb-91a8-1c331c7dac7b.jpg)
 
 
 - 👀 I’m interested in Web Devlopement and C++.
