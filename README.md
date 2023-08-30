@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aman22.ugec20@iiitranchi.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WbJwcxnem_A0fmgaH0insooV7Bx6M127/view?usp=share_link](https://drive.google.com/file/d/1WbJwcxnem_A0fmgaH0insooV7Bx6M127/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/15EMqyCL1KY0C4M4M-94PdwT4rQP3fttg/view?usp=drivesdk](https://drive.google.com/file/d/15EMqyCL1KY0C4M4M-94PdwT4rQP3fttg/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
